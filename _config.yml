@@ -1,6 +1,6 @@
 # site settings
 title: Spectrum Lab
-subtitle: Think analog, act digital” - M. Unser
+subtitle: Think analog, act digital”
 email: spectrumlabiisc@gmail.com
 description: World-class scientific research in cutting-edge signal and image processing, Healthcare AI areas
 baseurl: "/spectrumlab" # the subpath of your site, e.g. /blog
