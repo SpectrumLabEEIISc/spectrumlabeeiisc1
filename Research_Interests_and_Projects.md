@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research Interests and Projects
-description: Science. is. Amaze!
-image: assets/images/research_banner.jpg
+title: Research and Projects
+description: Our lab specializes in signal/image processing theory, wavelets, denoising, microphone arrays, sampling theories, time-frequency analysis, statistical signal processing, bio-inspired signal processing, healthcare informatics, biomedical imaging, inverse problems, etc. We primarily focus on speech/audio/image, bio-acoustic, biomedical, and optical signals.
+image: assets/images/slider_img3.jpg
 nav-menu: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Opinions and Blogging
+title: Publications
 layout: landing
-description: Because everyone has one these days... 
-image: assets/images/opinion_banner.jpg
+description: Papers, Journels, Letters ...
+image: assets/images/publication_news.jpg.jfif
 nav-menu: true
 ---
 

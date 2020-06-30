@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, Namaste, Namaskara, Hallo!'
+landing-title: 'Welcome to Spectrum Lab'
 description: null
 image: null
-author: Ashish Rao Mangalore
+author: Spectrum Lab
 show_tile: False
 font:
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-description: First Let's do some advertising
-image: assets/images/about_me.jpeg
+title: About Us
+description: Our quest is to discover the beauty of signals that we come across in many disciplines of science and engineering, regardless of the dimension of the space they live in. 
+image: assets/images/about_us_1.jpg
 nav-menu: true
 ---
 
