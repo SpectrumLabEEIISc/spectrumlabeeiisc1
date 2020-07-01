@@ -3,7 +3,7 @@ title: Spectrum Lab
 subtitle: Think analog, act digital
 email: spectrumlabiisc@gmail.com
 description: World-class scientific research in cutting-edge signal and image processing, Healthcare AI areas
-baseurl: "/spectrumlab" # the subpath of your site, e.g. /blog
+baseurl: "/spectrumlabeeiisc1" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Spectrum Lab IISc Bangalore
 street_address: Department of Electrical Engineering, IISc
