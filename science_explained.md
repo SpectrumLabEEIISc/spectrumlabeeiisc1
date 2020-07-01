@@ -1,8 +1,8 @@
 ---
-title: Science Explained
+title: Gallery 
 layout: landing
-description: An attempt to educate 
-image: assets/images/science_explained_banner.jpg
+description: Memories in a snap 
+image: assets/images/gallery.jpg
 nav-menu: true
 ---
 

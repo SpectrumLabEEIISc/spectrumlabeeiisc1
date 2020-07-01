@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Poems  
-description: Cause writing is the shizz!
-image: assets/images/poem_banner.jpg
+title: Seminars  
+description: Sharing Solutions.
+image: assets/images/seminar.jpg
 nav-menu: true
 ---
 

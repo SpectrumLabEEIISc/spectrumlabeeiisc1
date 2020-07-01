@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Reports and Repos
-description: One page to find it all 
-image: assets/images/report_repo_banner.jpg
+title: Awards
+description: Do the right
+image: assets/images/award.jpg
 nav-menu: true
 show_tile: true
 ---
